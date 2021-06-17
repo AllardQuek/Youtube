@@ -6,8 +6,11 @@ function App() {
     <div className="App">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Enabling Emmet</title>
-        <meta name="description" content="Enabling Emmet in VS Code" />
+        <title>npm-check</title>
+        <meta
+          name="description"
+          content="How to remove unused dependencies in React"
+        />
       </Helmet>
     </div>
   );
