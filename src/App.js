@@ -6,10 +6,10 @@ function App() {
     <div className="App">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>npm-check</title>
+        <title>Upload to Amazon S3</title>
         <meta
           name="description"
-          content="How to remove unused dependencies in React"
+          content="How to upload files to S3 from your React application"
         />
       </Helmet>
     </div>
